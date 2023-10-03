@@ -1,0 +1,1 @@
+EMOTION detection AI applications 
